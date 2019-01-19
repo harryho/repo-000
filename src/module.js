@@ -9,4 +9,8 @@ function main ( param1, param2, param3, params ) {
    }
 }
 
+function test_commit_01(){
+   console.log( " ssss  " );
+}
+
 module.exports = main
